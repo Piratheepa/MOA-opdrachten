@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Profile</string>
+
+    <!--Main_activity-->
+    <string name="studenten">Studenten</string>
+    <string name="student">Student</string>
+    <string name="results">Resulten</string>
+    <string name="dier">Favorite Dier</string>
+
+    <!--Studenten_activity-->
+    <string name="overzichtStudenten">Overzicht Studenten</string>
+
+    <!--Listrij-->
+    <string name="dob">Date of Birth:</string>
+    <string name="birthplace">Birthplace:</string>
+    <string name="crebo">Crebo:</string>
+    <string name="stdnr">Student Number:</string>
+    <string name="gender">Gender:</string>
+    <string name="edu">Education:</string>
+    <string name="animalprofile">Animal:</string>
+    <string name="mail">E-mail:</string>
+    <string name="mobile">Mobile:</string>
+    <string name="add_result">Results Toevoegen</string>
+    <string name="result">Results</string>
+    <string name="result_date">Results Datum</string>
+    <string name="gendertag">Gender:</string>
+    <string name="residencetag">Residence:</string>
+    <string name="tvScoreCCTag">Code:</string>
+    <string name="tvScoreResultTag">Result:</string>
+    <string name="tvScoreResultDateTag">Result Date:</string>
+    <string name="tvScoreStudentNrTag">Student Number:</string>
+    <string name="tvScoreTitleTag">Title:</string>
+
+
+</resources>
